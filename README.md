@@ -10,3 +10,5 @@ Refs:
 
 # Define the URL with our parameters
 url = f'https://fantasy.espn.com/apis/v3/games/ffl/seasons/{year}/segments/0/leagues/{league_id}'
+
+https://andrew-picart.medium.com/data-cleaning-and-eda-with-espn-fantasy-football-1b13346ebdca
