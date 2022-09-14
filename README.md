@@ -1,5 +1,6 @@
-# ESPN-API-Current-Year-Data
+# ESPN-API-Current-Year-Data (WORK IN PROGRESS)
 Getting Current Fantasy Football League Data w/ Python &amp; ESPN API
+
 
 Refs:
 
